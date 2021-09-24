@@ -13,6 +13,9 @@
 ├── docs
 ├── models
 ├── notebooks
+│   ├── 4_1_reinforcement_q_learning_jp.ipynb
+│   ├── 4_2_mario_rl_tutorial_jp.ipynb
+│   └── 4_3_cheatsheet_jp.ipynb
 ├── pyproject.toml
 ├── requirements.txt
 ├── setup.cfg
