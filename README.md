@@ -1,6 +1,6 @@
-# python-template-repository
+# DQN
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+強化学習（DQN）チュートリアルのexample リポジトリです。
 
 ## リポジトリ構成
 
