@@ -1,6 +1,6 @@
-# DQN
+# Reinforcement-Learning
 
-強化学習（DQN）チュートリアルのexample リポジトリです。
+強化学習（Reinforcement Learning）チュートリアルのexample リポジトリです。
 
 ## リポジトリ構成
 
